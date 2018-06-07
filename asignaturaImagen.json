@@ -1,0 +1,54 @@
+{
+  "asignatura": [
+    {
+      nombre: "COMPUTO MOVIL",
+      clave: "674"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/ComputoMovil0674.png'
+    },
+    {
+      nombre: "NEGOCIOS ELECTRONICOS",
+      clave: "951"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/NegociosElectronicos0951.png'
+    },
+    {
+      nombre: "COMPUTO DE ALTO DESEMPEÑO",
+      clave: "676"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/ComputoaltoDesempentildeo0676.png'
+    },
+    {
+      nombre: "ALGORITMOS Y ESTRUCTURAS DE DATOS",
+      clave: "1422"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/AlgoritmosyEstructuras1422.png'
+    },
+    {
+      nombre: "ESTRUCTURA Y PROGRAMACION DE COMPUTADORAS",
+      clave: "1429"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/EstructurayRpogramacion1429.png'
+    },
+    {
+      nombre: "ADMINISTRACIÓN DE REDES",
+      clave: "1866"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/AdministracionRedes1866.png'
+    },
+    {
+      nombre: "DISPOSITIVOS DE ALMACENAMIENTO DE ENTRADA Y SALIDA",
+      clave: "1765"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/AlgoritmosyEstructuras1422.png'
+    },
+    {
+      fombre: "CRIPTOGRAFÍA",
+      clave: "681"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/Criptografia0681.png'
+    },
+    {
+      ombre: "SEGURIDAD INFORMÁTICA I",
+      clave: "880"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/SeguridadInformatica0880.png'
+    },
+    {
+      ombre: "ARQUITECTURAS CLIENTE/SERVIDOR",
+      clave: "606"
+      imagen: 'http://i1219.photobucket.com/albums/dd431/Yackmar/Movil/ArquitecturaClienteServidor_0606.png'
+    }
+  ]
+}
